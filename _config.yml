@@ -35,14 +35,8 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Dont get sunburned
-    description                           : SunBurnBot calculates the time you have left to be protected with your sun protection cream and alerts you when the time is up.
-
-Just enter the necessary data:
-· Type of skin.
-· Sunscreen protection factor
-· Ultraviolet radiation (you can get it in the Weather app)
-
-You can also automate the obtaining of the ultraviolet radiation factor, just enter the password of your OpenWeatherMap account.
+    description                           : SunBurnBot calculates the time you have left to be protected with your sun protection cream and alerts you when the time is up. You can also automate the obtaining of the ultraviolet radiation factor, just enter the password of your OpenWeatherMap account.
+    
     fontawesome_icon_name                 : cloud-sun
 
 
