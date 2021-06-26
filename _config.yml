@@ -1,8 +1,8 @@
 #page title
-page_title                                : ToDoBot
+page_title                                : SunBurnBot
 
 # App Info
-ios_app_id                                : 1534834798                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1574021597                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : ToDoBot                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : SunBurnBot                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Reminders + Calendar + Weather = ToDoBot.
+app_description                           : Dont get sunburned
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,10 +22,10 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Ignacio Acisclo                                
 your_link                                 : https://github.com/iAcisclo/
 your_city                                 : Madrid              
-email_address                             : apptodobot@gmail.com
+email_address                             : iacisclo@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : TodobotApp
+twitter_username                          : iacisclo
 github_username                           : 
 youtube_username                          :
 
