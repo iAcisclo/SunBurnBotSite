@@ -1,2 +1,2 @@
-# ToDoBotSite
-ToDoBot site
+# SunBurnBotSite
+SunBurnBot site
