@@ -5,6 +5,17 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.1**
+
+#### What's New
+
+Improvements:
+* iOS15 Support.
+* General improvements.
+
+<br>
+________
+<br>
 
 ### `Initial Release`
 # **Version 1.0**
